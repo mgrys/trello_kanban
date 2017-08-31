@@ -60,7 +60,7 @@
     background-color: #5c7479;
 }
 
-.column-card-list {
+.card-list {
     list-style: none;
     padding: 10px;
 }
@@ -79,7 +79,7 @@
     cursor: pointer;
 }
 
-.add-card {
+.column-add-card {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -99,14 +99,14 @@
     background-color: #fde268;
 }
 
-.column-card-list li {
+.card-list li {
     position: relative;
     cursor: pointer;
     margin: 10px 0;
     padding: 10px;
 }
 
-.column-card-list .btn-delete {
+.card-list .btn-delete {
     position: absolute;
     top: 0;
     right: 0;
